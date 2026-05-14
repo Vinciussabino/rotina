@@ -102,20 +102,27 @@ npx expo start
 
 ## Tela de Login 🔑
 
-![Login](./assets/readme/LOGINSCREEN.png)
+<p align="center">
+  <img src="./assets/readme/LOGINSCREEN.png" width="260"/>
+</p>
 
 ## Tela Inicial 🏠
 
-![Home](./assets/readme/HOMESCREEN.png)
+<p align="center">
+  <img src="./assets/readme/HOMESCREEN.png" width="260"/>
+</p>
 
 ## Tela Adicionar Tarefa 📝
 
-![Tarefa](./assets/readme/TASKSCREEN.png)
+<p align="center">
+  <img src="./assets/readme/TASKSCREEN.png" width="260"/>
+</p>
 
 ## Tela Configurações ⚙
 
-![Configurações](./assets/readme/SETTINGSSCREEN.png)
-
+<p align="center">
+  <img src="./assets/readme/SETTINGSSCREEN.png" width="260"/>
+</p>
 
 
 ---
